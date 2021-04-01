@@ -14,6 +14,8 @@ GibBook 왼쪽 메뉴 Intergrations에서 GitHub를 클릭한다.
 
 책을 쓸 때는 질문을 한다.
 
+GitHub와 연결을 해봤다. 테스트해보
+
 
 
 
