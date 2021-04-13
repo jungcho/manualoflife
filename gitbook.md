@@ -20,30 +20,9 @@ GitHub와 연결을 해봤다. 테스트해보
 
 깃북과 갓헙을 연결해야 될 것 같다. 왜냐하면, 그래야지 오프라인 노트북에서 글을 쓰고, 이 글을 온라인에 통합시킬 수 있을 것이다. 반대로 온라인에서 쓰고 오프라인에서 편집하는 것도 하나의 좋은 방법이 될 것 같다.
 
-다음의 \[[링크](https://docs.gitbook.com/integrations/github)\]\([https://docs.gitbook.com/integrations/github](https://docs.gitbook.com/integrations/github)\)에 설명이 잘되어있다. 깃허브에서 편집하‌  
-절차  
-‌  
-GitHub와 GitBook은 어떻게 연계를 하는가?  
-  
-‌  
-모르겠으면 아래의 링크를 찾아간다. https://www.youtube.com/watch?v=e9DMxI\_XOPI​  
-  
-‌  
-GibBook 왼쪽 메뉴 Intergrations에서 GitHub를 클릭한다.  
-  
-‌  
-책을 쓸 때는 질문을 한다.  
-  
-‌  
-GitHub와 연결을 해봤다. 테스트해보  
-  
-‌  
-GitBook과 GitHub 연결하기  
-‌  
-깃북과 갓헙을 연결해야 될 것 같다. 왜냐하면, 그래야지 오프라인 노트북에서 글을 쓰고, 이 글을 온라인에 통합시킬 수 있을 것이다. 반대로 온라인에서 쓰고 오프라인에서 편집하는 것도 하나의 좋은 방법이 될 것 같다.  
-  
-‌  
-다음의 \[링크\]\(https://docs.gitbook.com/integrations/github\)에 설명이 잘되어있다. 깃허브에서 편집하면
+다음의 [링크](https://docs.gitbook.com/integrations/github)에 설명이 잘되어있다. 깃북에서 편집을 한다면, Integrations에서 GitHub의 Edit configuration에서 리포지토리로 링크를 건다. 이후에는 깃헙에 가서 Pull을 요청한다. 내가 이것을 몰랐던 것 같다.
+
+깃헙에서 편집하고 나서는 어떻게 해야 하는가? 지금 깃헙에서 편집하고 있는데 테스트를 해보자 . 먼저 Push를 해야할 것 같다.
 
 
 
