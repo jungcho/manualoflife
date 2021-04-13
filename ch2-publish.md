@@ -20,5 +20,3 @@ description: '어떻게 책을 쓸 것인가에 대한 가이드라인이다. �
 
 한글로 쓰다보면 깨지는 경우가 있다. 한글로 쓰기 때문일까?
 
-{% page-ref page="ch2-publish.md" %}
-
