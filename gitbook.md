@@ -22,7 +22,7 @@ GitHub와 연결을 해봤다. 테스트해보
 
 다음의 [링크](https://docs.gitbook.com/integrations/github)에 설명이 잘되어있다. 깃북에서 편집을 한다면, Integrations에서 GitHub의 Edit configuration에서 리포지토리로 링크를 건다. 이후에는 깃헙에 가서 Pull을 요청한다. 내가 이것을 몰랐던 것 같다.
 
-깃헙에서 편집하고 나서는 어떻게 해야 하는가? 지금 깃헙에서 편집하고 있는데 테스트를 해보자 . 먼저 Push를 해야할 것 같다.
+깃헙에서 편집하고 나서는 어떻게 해야 하는가? 지금 깃헙에서 편집하고 있는데 테스트를 해보자 . 데스크톱에서 Commit을 하고, Push를 한다. GitHub repository까지는 잘 들어간다. 이후에는... 해야할 것 같다.
 
 
 
