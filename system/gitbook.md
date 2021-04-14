@@ -38,3 +38,8 @@ GitBook과 GitHub 연결하면서 브랜치때문에 골치가 아팠었다. 저
 
 어떻게 이문제를 해결하였는가? 어렵게 어렵게 했는데, 결론은 간단하다. main을 master로 rename 하였다. main이 주로 내가 편집하던 것이고, master는 쓰레기글이 많아서, master를 지우고, 기존 main을 rename하였다.
 
+main은 아마 GitBook Desktop 때문에 생긴 것 같다.
+
+
+
+![image-20210414200050920](gitbook.assets/image-20210414200050920.png)
