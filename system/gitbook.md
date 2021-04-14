@@ -1,5 +1,5 @@
 ---
-description: GitBook을 이용한 책쓰기 사례를 소개한다.
+description: GitBook을 이용한 책쓰기 사례를 소개한다. 이건 초보자의 글이고 어떤 더 낫은 방법이 있는 지 모르겠다.
 ---
 
 # Typora와 GitBook을 이용한 책쓰기
