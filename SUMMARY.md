@@ -6,5 +6,5 @@
   * [출판하기](system/publish.md)
   * [레퍼런스 따라하기](system/copying.md)
   * [GitBook을 이용한 책쓰기](system/gitbook.md)
-* [프로젝트](ch4-test.md)
+* [나의 다른 프로젝트](ch4-test.md)
 
