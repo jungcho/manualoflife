@@ -19,3 +19,16 @@ description: 개인 프로젝트들을 정리하도록 하자. 공개해도 되�
 ## Song
 
 내가 부를 수 있는 노래 목록과 링크를 저장해 두자
+
+### 기다린 만큼 더 (검정치마)
+
+노래듣기 예빛 유튜브(https://youtu.be/i_bJwt7uTwQ) 사운드클라우드(https://soundcloud.com/yebit/cover-1)
+
+https://youtu.be/i_bJwt7uTwQ
+
+
+
+![기다린 만큼 더](mymusic.assets/기다린 만큼 더.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i_bJwt7uTwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

@@ -10,6 +10,7 @@
   * [Guitar & Song](personal/mymusic.md)
   * Healthy
   * Finance
+  * Meditation
 * [Project Link](https://jungcho.gitbook.io/project)
 
 
