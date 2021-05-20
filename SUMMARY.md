@@ -7,10 +7,10 @@
   * [레퍼런스 따라하기](system/copying.md)
   * [GitBook을 이용한 책쓰기](system/gitbook.md)
 * [개인 프로젝트](personal/README.md)
+  * [Meditation](personal/meditation.md)
   * [Guitar & Song](personal/mymusic.md)
   * Healthy
   * Finance
-  * Meditation
 * [Project Link](https://jungcho.gitbook.io/project)
 
 
