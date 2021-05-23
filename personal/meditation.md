@@ -74,7 +74,7 @@ description: meditation 정리하자. 방법, 수련, 수시로 볼 것 등등..
 * 몰라명상 20분 (https://youtu.be/P5WlytmZBGE)
 * 몰라명상 30분 (https://youtu.be/vvHy990p844)
 
-## 피곤하고 힘들 때
+## 시크릿-피곤하고 힘들 때
 
 힘들때는 the secret 유튜브를 듣자. 편하게 누워서 듣자.
 
@@ -84,7 +84,7 @@ description: meditation 정리하자. 방법, 수련, 수시로 볼 것 등등..
 
 위대한 시크릿 30분 (https://youtu.be/NJ5QM-awa10)
 
-## 미루는 습관 없애기
+## 바로실천하기- 미루는 습관 없애기
 
 미루는 습관을 없애고 목표에 도달하는 방법 by 신사임당, 바로 시작하는 법 1분 동영상 (https://youtu.be/jjak3gwWBKA) 4분 풀 동영상(https://youtu.be/LrLWRSdpeXw)
 
@@ -94,7 +94,7 @@ description: meditation 정리하자. 방법, 수련, 수시로 볼 것 등등..
 
 크리스마스 클래식, 캐록, 찬송가 좋다. 예수님의 은혜를 느끼자 (https://youtu.be/FrTjNw7JNVA)
 
-## 수면 영상
+## 수면 영상-우주의 끝을 찾아서
 
 우주의 끝을 찾아서 3시간 23분 중간광고 없는 블랙버전 (https://youtu.be/_eIQfJl8AbI)
 

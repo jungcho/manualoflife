@@ -4,9 +4,10 @@ description: 개인 프로젝트들을 정리하도록 하자. 공개해도 되�
 
 # 나의 취미 생활
 
-다음과 같이 만든다.
+다음의 내용들이 있다.
 
+* [Meditation](meditation.md)
 * [Guitar & Song](mymusic.md)
-* [Healthy]()
+* [Health]()
 * [Finance]()
 
