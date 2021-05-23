@@ -42,3 +42,13 @@ main은 아마 GitBook Desktop 때문에 생긴 것 같다.
 
 ![image-20210414200050920](../.gitbook/assets/image-20210414200050920.png)
 
+### description 넣기
+
+```
+---
+description: 머라머라...
+---
+# 제목넣기
+```
+
+위와 같이 md문서의 처음에 제목위에 넣어주면 gitbook에서 제목아래 설명이 나온다. `description: `을 넣지않아도 실행이 되는데, Contents부분에 깨지고, 제목이 살짝 꼬인다. gitbook의 제목은 사실 summary.md에서 것으로 정해지고, 내용이 있는 md의 제목은 나타나지 않는데, description을 명기안하면, md파일의 제목이 두번째 레벨의 제목으로 들어가게 된다. 사소한 팁이다.
