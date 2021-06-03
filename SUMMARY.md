@@ -8,7 +8,10 @@
   * [레퍼런스 따라하기](system/copying.md)
   * [GitBook을 이용한 책쓰기](system/gitbook.md)
   * [파일정리하기-참고자료폴더](system/reference-folder.md)
-* [개인 프로젝트](personal/README.md)
+* [상황별 대처방안](case/README.md)
+  * 아침에 일어나기 귀찮을 때
+  * 일이 안될때
+* [개인 저장소](personal/README.md)
   * [Meditation](personal/meditation.md)
   * [Guitar & Song](personal/mymusic.md)
   * Health

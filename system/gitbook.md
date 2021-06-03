@@ -56,3 +56,10 @@ description: 머라머라...
 ### md 파일명 한글 vs. 영어
 
 md 파일명이 깃허브에서는 문제가 없으나, 깃북에서는 한글을 인식하지 못한다. 자동으로 untitled(?)인가를 붙혀주는데, 피드백이나 나중에 문제가 되지 않을까 싶다. 깃허브를 주로 사용하고, 깃북은 그냥 보여주기만 한다면 사용에는 문제가 없다.
+
+## .DS_Store files
+
+> *Synopsis* 맥에서 폴더에 대한 특성을 갖고 있는 시스템파일이다.
+
+`.DS_Store` 파일(또는 확장자)을 보게 되는데 이것은 Mac의 시스템파일이다. *Desktop Service Store*의 약자다. 집에서 iMac으로 작업한 이후에 생기기 시작했다. 그냥 지워도 안전하다고 한다(https://superuser.com/questions/757593/what-is-ds-store-file-in-windows). 그리고, 어떻게 방지하는지? 지워도 문제가 없는지에 대한 링크가 연결된다. 또한 자세한 것은 위키에도 설명이 되어있다(https://en.wikipedia.org/wiki/.DS_Store). 폴더의 특성정보를 갖고 있다. 아이콘이라든지 백그라운드 이미지 같은 것 말이다. Finder 앱에서 만들어진다. 신경쓰지 말아야 겠다.
+
