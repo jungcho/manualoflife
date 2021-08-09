@@ -10,6 +10,10 @@ description: 내 삶의 매뉴얼이다. 이 사이트는 매뉴얼을 만드는
 
 이 작업은 미니멀 라이프중의 하나다. 내 삶을 정리하고, 기록하는 목적도 있다. 매일 commit을 하자.
 
+https://jungcho.gitbook.io/mol/
+
+https://app.gitbook.com/@jungcho/s/mol/
+
 ## 목적은...
 
 * 내 삶의 여행 안내서가 되도록 만든다.
