@@ -15,7 +15,7 @@
   * [Meditation](personal/meditation.md)
   * [Guitar & Song](personal/mymusic.md)
   * Health
-  * Finance
+  * [Finance](personal/finance.md)
 * [Project Link](https://jungcho.gitbook.io/project)
 
 
