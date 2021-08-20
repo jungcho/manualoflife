@@ -9,5 +9,7 @@ description: 개인 프로젝트들을 정리하도록 하자. 공개해도 되�
 * [Meditation](meditation.md)
 * [Guitar & Song](mymusic.md)
 * [Health]()
-* [Finance]()
+* [Finance](personal/finance.md)
+  * [용도지역](personal/용도지역.md)
+  * [농어촌주택(조특법)](personal/조세특례제한법제99조의4-농어촌주택.md)
 
