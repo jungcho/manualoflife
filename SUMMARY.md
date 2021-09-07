@@ -17,8 +17,9 @@
   * [Guitar & Song](personal/mymusic.md)
   * Health
   * [Finance](personal/finance.md)
-    * [용도지역](personal/용도지역.md)
+    * [용도지역](personal/용도지역zone.md)
     * [농어촌주택(조특법)](personal/조세특례제한법제99조의4-농어촌주택.md)
+    * [등기종류](personal/등기registration.md)
 * [Project Link](https://jungcho.gitbook.io/project)
 
 
